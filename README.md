@@ -21,7 +21,7 @@ Este repositório contém um projeto simples de tela de login desenvolvida usand
 1. Clone este repositório para o seu ambiente de desenvolvimento local.
 
 ```bash
-git clone https://github.com/seunome/seurepositorio.git
+git clone https://github.com/Davio27/login.git
 ```
 
 2. Abra o arquivo `index.html` em seu navegador da web para visualizar a tela de login.
@@ -34,7 +34,7 @@ Sinta-se à vontade para contribuir para este projeto. Se você encontrar bugs o
 
 ## Autor
 
-[Seu Nome] - [@seunome](https://github.com/seunome)
+[Seu Nome] - [@seunome](https://github.com/Davio27)
 
 ## Licença
 
