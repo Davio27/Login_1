@@ -4,7 +4,7 @@ Este repositório contém um projeto simples de tela de login desenvolvida usand
 
 ## Prévia
 
-![Tela de Login](imagem_da_tela.png)
+![Tela de Login][Captura de tela 2023-09-09 212227](https://github.com/Davio27/login/assets/129198119/d99e2eb6-768b-4ecd-ba85-9378cfe077a5)
 
 ## Recursos
 
@@ -34,7 +34,7 @@ Sinta-se à vontade para contribuir para este projeto. Se você encontrar bugs o
 
 ## Autor
 
-[Seu Nome] - [@seunome](https://github.com/Davio27)
+[Dávio Carvalho] - [@Davio27](https://github.com/Davio27)
 
 ## Licença
 
